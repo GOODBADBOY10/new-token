@@ -2,5 +2,15 @@
   "name": "GOODBADBOY",
   "symbol": "ADEMOLA",
   "description": "THE BOY WITH DREAMS",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
+  "image": "https://i.imgur.com/peKHOze.jpg",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.imgur.com/peKHOze.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
 }
